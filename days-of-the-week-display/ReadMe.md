@@ -1,6 +1,6 @@
 # react-test-application
 
-- React Web Application to display days of the week in English and Spanish
+- React Web Application to display days of the week in two different languages (English and Spanish) where each language is displayed using different coding languages in the web application.
 - English display is done using React.createElements
 - Spanish display is done using tags (display text mentions JSX-error to be rectified)
 - Coded using ReactJS
